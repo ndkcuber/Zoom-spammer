@@ -9,6 +9,7 @@ requires
 
 Some features are still in development!
 
+#HOW TO USE
 * open the chat box as a popout, then run the "RUN.BAT" file
 * make sure the put the popout chat box on top layer
 * you can change the texts in the "text.txt" file
