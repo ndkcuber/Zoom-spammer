@@ -1,5 +1,5 @@
 # Zoom-spammer
-made by NdkCuber (ndkcuber13#2356)
+made by NdkCuber (ndkcuber13#2356 or ndkcuber#0001)
 
 requires
 - pyautogui
