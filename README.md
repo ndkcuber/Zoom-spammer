@@ -3,9 +3,9 @@ made by NdkCuber (ndkcuber13#9259 or ndkcuber#0001)
 
 requires
 - pyautogui
-- datetime
 - time
 - subprocess
+- pyperclip
 
 Some features are still in development!
 
@@ -14,6 +14,6 @@ Some features are still in development!
 * make sure the put the popout chat box on top layer
 * you can change the texts in the "text.txt" file
 
-<video width="1280" height="720" controls>
-  <source src="example.mp4" type="video/mp4">
-</video>
+
+https://github.com/ndkcuber/Zoom-spammer/assets/72005690/9e8af34a-5b56-43ee-930f-502c7b4d7b54
+
